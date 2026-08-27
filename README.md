@@ -7,7 +7,7 @@
 > 用声音作画的活体屏保：麦克风驱动的无限画布生成艺术。开口就有回应，安静时也不停。
 > A living screensaver that paints with sound — an infinite generative canvas driven by your microphone.
 
-[![Live Demo](https://img.shields.io/badge/demo-live%20now-brightgreen)](https://joeseesun.github.io/void-scribe/)
+[![Live Demo](https://img.shields.io/badge/demo-live%20now-brightgreen)](https://void.qiaomu.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Single file](https://img.shields.io/badge/single--file-1%20%C3%97%20HTML-blueviolet)](#快速开始)
 [![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](#技术栈)
@@ -88,7 +88,7 @@
 
 ### 最快路径
 
-**在线试玩（推荐先试这个）：** 👉 https://joeseesun.github.io/void-scribe/  
+**在线试玩（推荐先试这个）：** 👉 https://void.qiaomu.ai/  
 GitHub Pages 是 HTTPS 源，麦克风权限行为最标准。建议用桌面版 Chrome / Edge / Safari / Firefox。
 
 1. 下载 `index.html`
@@ -270,7 +270,7 @@ It does not fake it with "louder = brighter". It actually analyses the signal:
 
 ## Try it in under a minute
 
-**Live demo (start here):** 👉 https://joeseesun.github.io/void-scribe/  
+**Live demo (start here):** 👉 https://void.qiaomu.ai/  
 Served over HTTPS from GitHub Pages, so microphone permission behaves normally. Use a desktop browser.
 
 ```bash
